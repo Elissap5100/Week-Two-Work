@@ -52,6 +52,10 @@
 
 - I did not explore this too heavily as I assume the following readings in the lesson plan will hep me more, but I am glad I saw this. I had no idea projects like this exist and I am impressed by the collaborative trust and spirit it has. The whole concept is very impressive (especially the amount of work that goes into it and how much has been done). It makes me wonder what other things like exist...
 
-#### 
+#### https://melissaterras.files.wordpress.com/2018/08/fqx064.pdf
+
+- **Crowd Sourcing** : obtain (information or input into a particular task or project) by enlisting the services of a large number of people, either paid or unpaid, typically via the Internet.
+- **Amazon Mechanical Turk platform** : where users are asked to carry out atomized tasks in return for some small monetary reward.
+- I feel a lot of trust must go into these volunteers... is there a screening process or editing 
       
    
