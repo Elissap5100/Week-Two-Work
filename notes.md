@@ -61,8 +61,8 @@
 - " as well as Bentham’s frequently awful handwriting." 
     - It seems so simple but I have never thought of quality of handwriting as a major difficulty of transcribing old documents.
 - The data clearly indicates this works quite well. It is a risky leap of faith, but it obviously worked well in this case. Iw onder how many other archival projects consider this approach but say no anyways.
-- Generally speaking, there were ot as many errors in the transcripts as people would expect. It seems the people who volunteer for this task genuinely care for the work they do and are interested in the data they are absorbing. I am sure there are a few people who have abused this system, but they seem to be the minority accroding to this reading
-- 
+- Generally speaking, there were not as many errors in the transcripts as people would expect. It seems the people who volunteer for this task genuinely care for the work they do and are interested in the data they are absorbing. I am sure there are a few people who have abused this system, but they seem to be the minority according to this reading.
+- I would be really curious to hear any other "success stories" of crowdsourcing that exist out in the web.
       
       
  
@@ -132,3 +132,13 @@ The 'Quick-Fix':
 I must remember to take a look at the following sites to understand wget a little bit better:
 - https://programminghistorian.org/en/lessons/automated-downloading-with-wget
 - https://programminghistorian.org/en/lessons/applied-archival-downloading-with-wget
+
+### APIs
+
+**Getting material out of an API:** I did not run into any issues with this part. Overall, I found this technique actually very intereting and I believe I could make use of it in my other courses in the future. The instructions were very easy to follow, and luckily do to my limited past expirience in computer science, I was able to completely nderstand the Proffessors explanations of each part of the code. 
+
+**Some other APIs:** Although there was no steps exactly for me to follow, I do want to make note of the websites linked in this section. I can see this code being very helpful in both the future of this course and my other classes. Following the step by step tutorial was easy enough, but I am sure I will need help when it comes time to adapting this program to another API.
+
+**Glam Workbench**: I will look at this more indepth sometime this weekend. It all seems like very interesting concepts to explore!
+
+### OCR
