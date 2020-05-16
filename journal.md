@@ -13,15 +13,15 @@ Similar to my last reflection, I believe the work is done by, again, a multitude
 ## What are some of the ethical dimensions of doing this work?
 
 I do not completely understand this question, but I think in reality this concept mainly applies to the project that is being worked on or funded. It is my understanding that most online historical platforms, collections, databases or archives are compiled and constantly worked on by a mix of paid employees and volunteers through various levels of the crowdsourcing technique. I think ethics come into play most when one considers the treatment of volunteers vs paid employees.
-    - Who can be a volunteer? what is the screen process for this and is it fair?
-    - How much work should a volunteer be allowed to do? Can they do more than a paid employee? At what point should they get paid or recieve some type of recognition? Is there a way to transition?
-    -As a paid employee, what is your role? How much 'control' do they have over volunteers? What happens when a paid employee's role is eerily similar to that of a volunteer? Are they expeted to do more than volunteers?
-    - Can the project demand more of their already hard working volunteers? Can volunteers be asked to easily adapt to changes as a paid employee would?
+  - Who can be a volunteer? what is the screen process for this and is it fair?
+  - How much work should a volunteer be allowed to do? Can they do more than a paid employee? At what point should they get paid or recieve some type of recognition? Is there a way to transition?
+  -As a paid employee, what is your role? How much 'control' do they have over volunteers? What happens when a paid employee's role is eerily similar to that of a volunteer? Are they expeted to do more than volunteers?
+  - Can the project demand more of their already hard working volunteers? Can volunteers be asked to easily adapt to changes as a paid employee would?
     
 Another side to consider is the money projects such as the Bentham Project recieves and what is the best/fair thing to do with it. Certain questions that may arise can include:
-    - What makes one project more deserving of funding than another?
-    - Where should the money go? 
-    - Should it be used to develop a better volunteer programsystem, hire another employee, rework the onlone platform, invest in more sources for the project, marketing, etc?
+  - What makes one project more deserving of funding than another?
+  - Where should the money go? 
+  - Should it be used to develop a better volunteer programsystem, hire another employee, rework the onlone platform, invest in more sources for the project, marketing, etc?
 
 ## Does Carleton give you any resources for getting those materials onto your own machine in formats you can read?
 
