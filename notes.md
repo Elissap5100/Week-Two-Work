@@ -57,12 +57,18 @@
 - **Crowd Sourcing** : obtain (information or input into a particular task or project) by enlisting the services of a large number of people, either paid or unpaid, typically via the Internet.
 - **Amazon Mechanical Turk platform** : where users are asked to carry out atomized tasks in return for some small monetary reward.
 - I feel a lot of trust must go into these volunteers... is there a screening process or editing 
+    - UPDATE: This is answered on page 470
+- " as well as Bentham’s frequently awful handwriting." 
+    - It seems so simple but I have never thought of quality of handwriting as a major difficulty of transcribing old documents.
+- The data clearly indicates this works quite well. It is a risky leap of faith, but it obviously worked well in this case. Iw onder how many other archival projects consider this approach but say no anyways.
+- Generally speaking, there were ot as many errors in the transcripts as people would expect. It seems the people who volunteer for this task genuinely care for the work they do and are interested in the data they are absorbing. I am sure there are a few people who have abused this system, but they seem to be the minority accroding to this reading
+- 
       
       
  
 ## Weekly Tasks
 
-#### Setting Up Anaconda 
+### Setting Up Anaconda 
 
 - There were no issues downloading Sublime in the earlier step (I have some previous experience using this program from my other courses)
 - There were no issues downloading and installing Anaconda 
@@ -94,11 +100,35 @@
     ![issue resolved](https://github.com/Elissap5100/Week-Two-Work/blob/master/Issue%20resolved.PNG)
 
 
-#### Wget
+### Wget
 
-1. Installation
-    - As of right now, before continuing on the the other steps, I beleive I have done it right. Due to my previous experinece with technology and coding in general... I am sure I will know I have not moved it to the right folder correctly in a future step.
-    
-2. 
+**Installation**:
+As of right now, before continuing on the the other steps, I beleive I have done it right. Due to my previous experinece with technology and coding in general... I am sure I will know I have not moved it to the right folder correctly in a future step.
+
+**Basic Usage**:
+*This part gave me some issues in various places, but after strolling through the discord and reading some of my fellow class mates responses, I felt much better about being confused and even solved all my issues.*
+
+- The first problem I ran into, was not being able to see my downloaded content in the newly created directory on my desktop. I followed all the steps, but nothing seemed to appear (except for a lot of text in the command prompt). After strolling through the discord, one user (thank you sidxi) suggested moving the wget.exe appliation into its own folder on my desktop. Which I did and things seemed to sail a little smoother, although it was still not completely working.
+- The second problem I encountered was similiar to th first, mainly because again, nothing was appearing when I attempted to download the file, other than a lot of text appearing in the command prompt. Luckily, Kieran B in the discord had the same issue as myself, and was directed by Matthew to change "wget" to "wget.exe" when attempting the command. Finally, it worked and I was able to download the file.
    
+- This second part took a few minutes which worried me at first, but I was rest assured that is normal by the multitude of responses in the discord as well. Everything seemed to have downloaded as it was supposed to in not too much time!
 
+```
+FINISHED --2020-05-16 11:55:18--
+Total wall clock time: 16m 23s
+Downloaded: 128 files, 6.9M in 5m 48s (20.4 KB/s)
+```
+
+**Using wget with a list of urls**: This did not give me any issues. I made sure to save the urls.txt file in the same directory as all the other components from this week so far.
+
+**Using python to generate a list of urls**: There were no major issues with this, although I ran into one error code that I fixed by moving the wget.exe application into the new "war-diaries" folder that was created. *Unfortunately I started this week's work a little too late, but next week I plan on asking if that file must be in every directory I wish to download things into, or if there is somewhere I can pu it so it works "universally" so to speak.*
+
+The Error Code:
+![wgetissue](https://github.com/Elissap5100/Week-Two-Work/blob/master/wgetissue.PNG)
+
+The 'Quick-Fix':
+![QuickFix](https://github.com/Elissap5100/Week-Two-Work/blob/master/wgetissuequickfix.PNG)
+
+I must remember to take a look at the following sites to understand wget a little bit better:
+- https://programminghistorian.org/en/lessons/automated-downloading-with-wget
+- https://programminghistorian.org/en/lessons/applied-archival-downloading-with-wget
