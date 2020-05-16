@@ -142,3 +142,16 @@ I must remember to take a look at the following sites to understand wget a littl
 **Glam Workbench**: I will look at this more indepth sometime this weekend. It all seems like very interesting concepts to explore!
 
 ### OCR
+
+I ran into an issue with downloading R studio. After attempting 2 times and re-installig the anaconda launcher, I found it was taking a crazy amount of time to download. Given both times I let it sit for 2 hours and nothing happened. I ended up searching it up and much to my surprise, many other people wondered the same thing. After readin through many of the responses on various forums:
+
+  - https://github.com/ContinuumIO/anaconda-issues/issues/11476
+  - https://stackoverflow.com/questions/59030985/installing-r-in-anaconda-is-taking-forever
+  
+I learned that it is simply a massive file that has taken various people up to 24 hours to download depending on your machine and internet speed (both of mine which could use some improvement). I am going to try waiting for a while like others did and see what happens.
+
+![R1](https://github.com/Elissap5100/Week-Two-Work/blob/master/R1.PNG)
+
+![R2](https://github.com/Elissap5100/Week-Two-Work/blob/master/R2.PNG)
+
+As of right now because I am alrady late with submitting this weeks work, so I will submit what I have and allow the installation to run all day. Hopefully when I check on it later, it will be ready and I will attempt the last part of this week's work. I will send an email updating whether or not I am successful. Next week, I will be sure to manage my time better as well... 
