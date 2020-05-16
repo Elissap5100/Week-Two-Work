@@ -33,4 +33,4 @@ I touched upon this answer in my last reflection, but I believe the main obstacl
 
 ## Where do you fit into this digital history machine?
 
-A question similar to this one was asked last week, and I still feel the same. I am not entirely   
+A question similar to this one was asked last week, and I still feel the same. I am not entirely sure where I fit in yet or wht my role is -  but I am enjoying my time exploring. In these last two weeks I have learned about a new part of the internet that I truely had no idea existed. The various projects we are learning about and tasks we are completing are building my skills and piquing my interest at each new turn. I make sure that I explore the readings in depth and absorb as much as I can from every ressource. Althoug some of the technological side of things go over my head, I am keeping an open mind and doing my best. For now, I remain a curious observer just dipping my toes in the water!
